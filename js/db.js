@@ -2,297 +2,294 @@
 const arrColletion = [
   {
     dataGroup: 101,
-    groupName: "П-101СД",
-    groupIMG:"101.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=hGBDrVDlP8k7v18aBI_F6mNU85jpFzFksLwnA5vwL14",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=Y3YK9q6lMAzsRU4kaxqDQ3GHnFcflDloryg=",
+    groupName: "Т-101СД",
+    groupIMG: "101.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/bfOKGc1tiBUhlRg2Mz94ulYKkhlmvYJGcxCY3sLkwc8",
-    maxGroupLinkPC: "https://web.max.ru/join/bfOKGc1tiBUhlRg2Mz94ulYKkhlmvYJGcxCY3sLkwc8",
+    maxGroupLinkMobile: "https://max.ru/join/xUAHpJTmIzmgq2jtRB98dnFuKzCQJ9lyQefOt4-Bcbc",
+    maxGroupLinkPC: "https://web.max.ru/join/xUAHpJTmIzmgq2jtRB98dnFuKzCQJ9lyQefOt4-Bcbc",
   },
   {
     dataGroup: 102,
-    groupName: "П-102СД",
-    groupIMG:"102.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=T3-Qyq9azOacsn1v_yjeFmcLqYyYkEqcl6awKqGP4d0",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=AEhw6sPtX7xBFcmM/_TDOcXJ4_kT_YKG58c=",
+    groupName: "Т-102СД",
+    groupIMG: "102.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/vkVrANOWYHBHf3_EjcIPlgIFN-zlmRaxyJ6MpZkECcs",
-    maxGroupLinkPC: "https://web.max.ru/join/vkVrANOWYHBHf3_EjcIPlgIFN-zlmRaxyJ6MpZkECcs",
+    maxGroupLinkMobile: "https://max.ru/join/K0FD1wG6N5mN3dekDaHicyKRwbul7E7DGphIiFREKWc",
+    maxGroupLinkPC: "https://web.max.ru/join/K0FD1wG6N5mN3dekDaHicyKRwbul7E7DGphIiFREKWc", //web.max
   },
   {
     dataGroup: 103,
-    groupName: "П-103СД",
-    groupIMG:"103.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=vUHCKB9Te6kZwzhPPP2pX-1Yayz9CqRSWLc6JVXscYs",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=a6n8zH226Aj2iZFLK8m9bJawsk7V52djoeo=",
+    groupName: "Т-103СД",
+    groupIMG: "103.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/HthGPM3kkl0IJqcGMjangkPB7cbRA6ZylrHbjuSjyrQ",
-    maxGroupLinkPC: "https://web.max.ru/join/HthGPM3kkl0IJqcGMjangkPB7cbRA6ZylrHbjuSjyrQ",
+    maxGroupLinkMobile: "https://max.ru/join/8qhng-j9q6YGvpPw7lXdJ99EqZ6YozdL5_oR_YGKwe0",
+    maxGroupLinkPC: "https://web.max.ru/join/8qhng-j9q6YGvpPw7lXdJ99EqZ6YozdL5_oR_YGKwe0", //web.max
   },
   {
     dataGroup: 104,
-    groupName: "П-104СД",
-    groupIMG:"104.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=YRRDCb8XLkLJOz8AP4ca5kV0hCkj6NGv42ggUZqD0sg",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=hq5UdxsB4F8oVnwuto/3H_HYNEBjcOqqf_A=",
+    groupName: "Т-104СД",
+    groupIMG: "104.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/b5faE5hs4X89sUerEnjqXYo_filek3TQ-5SH6LswTeE",
-    maxGroupLinkPC: "https://web.max.ru/join/b5faE5hs4X89sUerEnjqXYo_filek3TQ-5SH6LswTeE",
+    maxGroupLinkMobile: "https://max.ru/join/6psQQZEl4OFqqlmsITuvhkBevMkm9rp-8JckYUisAO4",
+    maxGroupLinkPC: "https://web.max.ru/join/6psQQZEl4OFqqlmsITuvhkBevMkm9rp-8JckYUisAO4", //web.max
   },
   {
     dataGroup: 105,
-    groupName: "П-105СД",
-    groupIMG:"105.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=DxVWYh9bqnHGjkiNK9QCZ8iXne2wt-X1oBDka6nY9jY",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=pzE_/zO19h194_tsp/aCVLpkMEhzKdpjlr4=",
+    groupName: "Т-105СД",
+    groupIMG: "105.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/Uem7geFD4IPbMT6Rp_oZ-VNpxqPfdwJ_h5bayX3Zj7E",
-    maxGroupLinkPC: "https://web.max.ru/join/Uem7geFD4IPbMT6Rp_oZ-VNpxqPfdwJ_h5bayX3Zj7E",
+    maxGroupLinkMobile: "https://max.ru/join/G_xmDnpiLadWOD8W94bo67y_M4NXNIRwDQ-K-zz8QMs",
+    maxGroupLinkPC: "https://web.max.ru/join/G_xmDnpiLadWOD8W94bo67y_M4NXNIRwDQ-K-zz8QMs", //web.max
   },
   {
     dataGroup: 106,
-    groupName: "П-106СД",
-    groupIMG:"106.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=UScs3nNAtnPu-VNtfyHoeJIdgrNrxOIVG_EyraoPcNQ",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=mNp9fTKFG8g7LufJe_ujQJxpfuB06nC41Ko=",
+    groupName: "Т-106СД",
+    groupIMG: "106.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/Mowz9GeXaD8EbWqGErm-btVgeX6YPlBP26qtXR5fxv4",
-    maxGroupLinkPC: "https://web.max.ru/join/Mowz9GeXaD8EbWqGErm-btVgeX6YPlBP26qtXR5fxv4",
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
   },
   {
     dataGroup: 107,
-    groupName: "П-107СД",
-    groupIMG:"107.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=QD2KvnZdiD4iL9pdB9aWiu0TCjU9ObFMLaMJ0XnbunE",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=1_W_xttNBML2ty3GeF3szSCCM2mFvms5faI=",
+    groupName: "Т-107СД",
+    groupIMG: "107.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/k4vkoOcgYIgZPsQ13LlTETl-3QTL7XCB8j6c4LeS1Vo",
-    maxGroupLinkPC: "https://web.max.ru/join/k4vkoOcgYIgZPsQ13LlTETl-3QTL7XCB8j6c4LeS1Vo",
+    maxGroupLinkMobile: "https://max.ru/join/AEYIt_yyW92LuiV03lgy28Dh67uOfcQ2NxmfSVQx86o",
+    maxGroupLinkPC: "https://web.max.ru/join/AEYIt_yyW92LuiV03lgy28Dh67uOfcQ2NxmfSVQx86o", //web.max
   },
   {
     dataGroup: 108,
-    groupName: "П-108СД",
-    groupIMG:"108.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=URzmNZRVrIfizbyLj3H0gRkKPlSmKaidjnVKCY9oLMY",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=UlNfXrsEWPsJDM5jQjnvhyCpHi60CpfbUKI=",
+    groupName: "Т-108СД",
+    groupIMG: "108.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/oACIwHAy3dUQYmyNt5Vexf7CySkfZqVCRt5nH96zMLI",
-    maxGroupLinkPC: "https://web.max.ru/join/oACIwHAy3dUQYmyNt5Vexf7CySkfZqVCRt5nH96zMLI",
+    maxGroupLinkMobile: "https://max.ru/join/sLhlRgw8Kc10gKWj-vT8Rolqp4N_we98TbuC711gKGc",
+    maxGroupLinkPC: "https://web.max.ru/join/sLhlRgw8Kc10gKWj-vT8Rolqp4N_we98TbuC711gKGc", //web.max
   },
   {
     dataGroup: 109,
-    groupName: "П-109СД",
-    groupIMG:"109.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=PPy610_e5gMAhEMnqAEhxQF7JBwrqOa0tXbXrDfeDPU",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=uAwRspqvCaOjDfFoKLMLH30HbiM2MJ9C9VU=",
+    groupName: "Т-109СД",
+    groupIMG: "109.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/GfdcDG6SH4EAFsIsn7dCOln0QDQv7pUAWhR0eNUGoy8",
-    maxGroupLinkPC: "https://web.max.ru/join/GfdcDG6SH4EAFsIsn7dCOln0QDQv7pUAWhR0eNUGoy8",
+    maxGroupLinkMobile: "https://max.ru/join/2jdyWzRtzSMXkEoisCSsKUTLb7w4qogCfKnAKOIe8XA",
+    maxGroupLinkPC: "https://web.max.ru/join/2jdyWzRtzSMXkEoisCSsKUTLb7w4qogCfKnAKOIe8XA", //web.max
   },
   {
     dataGroup: 110,
-    groupName: "П-110СД",
-    groupIMG:"110.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=ruqNrcLpgtLT7BlXQ18Liw1gEhgyer4tcciTnouZZUQ",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=Ju9bjUAMZEp_0ThL2oKLYJKmJD4GN/RZpqM=",
+    groupName: "Т-110СД",
+    groupIMG: "110.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/jqhHXGalsCaX8RvcmX0CP7KkVxmlG2e3omuIZ2qUzGE",
-    maxGroupLinkPC: "https://web.max.ru/join/jqhHXGalsCaX8RvcmX0CP7KkVxmlG2e3omuIZ2qUzGE",
+    maxGroupLinkMobile: "https://max.ru/join/VmZI3zTqyErCTrHotJ0iUdei7HOj-kNqcF1ihSWD8wM",
+    maxGroupLinkPC: "https://web.max.ru/join/VmZI3zTqyErCTrHotJ0iUdei7HOj-kNqcF1ihSWD8wM", //web.max
   },
   {
     dataGroup: 111,
-    groupName: "П-111СД",
-    groupIMG:"111.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=Zo3uJsEIv8TznlLwlxxRfjSMtkBucblbIliQAIfT6fc",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=2C1V9dsy62RO9xMwaXP6tqRfMGsd6eaY/b4=",
+    groupName: "Т-111СД",
+    groupIMG: "111.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/yYn6Cx65zCzlZHFobR5qP695exZXr97dAiKZh4TV7Fg",
-    maxGroupLinkPC: "https://web.max.ru/join/yYn6Cx65zCzlZHFobR5qP695exZXr97dAiKZh4TV7Fg",
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
   },
   {
     dataGroup: 112,
-    groupName: "П-112СД",
-    groupIMG:"112.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=aWENMBmJ47M8OhNLl8ApyIc3KjkaRoi5Olju41mNqa0",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=aggGIo2MVJrkpGlUEDxzyYFqpvZqGAjOpLo=",
+    groupName: "Т-112СД",
+    groupIMG: "112.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/uqA9q8i1hNryh_O3YN5zSGwn0LPPcTaygvctxBCUutQ",
-    maxGroupLinkPC: "https://web.max.ru/join/uqA9q8i1hNryh_O3YN5zSGwn0LPPcTaygvctxBCUutQ",
+    maxGroupLinkMobile: "https://max.ru/join/HzFy2juemxHCoSPnpR-ywxp1alBTdW26xy9L0wI9MiM",
+    maxGroupLinkPC: "https://web.max.ru/join/HzFy2juemxHCoSPnpR-ywxp1alBTdW26xy9L0wI9MiM", //web.max
   },
   {
     dataGroup: 113,
-    groupName: "П-113СД",
-    groupIMG:"113.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=Rc7f2Mbai2f3rtuX_aVzpX8h37ETPhtIaxPXexyDhPI",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=Q4KXWo66PSUsRmgqNiHYNybJR2TluovgqQE=",
+    groupName: "Т-113СД",
+    groupIMG: "113.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/uy79GDVvPVpEz69pAN6ou6SYVGqNbD5JQ2jsusQcoO4",
-    maxGroupLinkPC: "https://web.max.ru/join/uy79GDVvPVpEz69pAN6ou6SYVGqNbD5JQ2jsusQcoO4",
+    maxGroupLinkMobile: "https://max.ru/join/uYRJrWYg_F0gYU4SqGkOELIft6ysCkF0Ketr63CWbJc",
+    maxGroupLinkPC: "https://web.max.ru/join/uYRJrWYg_F0gYU4SqGkOELIft6ysCkF0Ketr63CWbJc", //web.max
   },
   {
-    dataGroup: 114,
-    groupName: "П-114СД",
-    groupIMG:"114.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=qaObcEL4kd9Mgv-pCmYeuT75iGif7ocR9ZuaVly_jcw",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=wwRgfyibK3JQIA4gytuqWEIDafbQrHdILpg=",
+    dataGroup: 20,
+    groupName: "Т-20СД",
+    groupIMG: "20.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/iVZJfvCtR36fjouseZVld_rhT-OLyOZwskivmFe_Ius",
-    maxGroupLinkPC: "https://web.max.ru/join/iVZJfvCtR36fjouseZVld_rhT-OLyOZwskivmFe_Ius",
+    maxGroupLinkMobile: "https://max.ru/join/EFAWEOU5teMrpR4K-7szblLbrk1qrV-JS1-hTpj2Mko",
+    maxGroupLinkPC: "https://web.max.ru/join/EFAWEOU5teMrpR4K-7szblLbrk1qrV-JS1-hTpj2Mko", //web.max
   },
   {
-    dataGroup: 115,
-    groupName: "П-115СД",
-    groupIMG:"115.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=QWsOAzOXZ8H8IM67OJjKwl3ZDgcQMXWd2gfBmi56kOQ",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=pHx/bzfB4tJimTjwtqQ00Awlj/KsG2gf9rE=",
+    dataGroup: 21,
+    groupName: "Т-21СД",
+    groupIMG: "21.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/s_jnKRVZ7ahlLJQSy636cNKuBt736VRwpK3xBXcwN2Y",
-    maxGroupLinkPC: "https://web.max.ru/join/s_jnKRVZ7ahlLJQSy636cNKuBt736VRwpK3xBXcwN2Y",
+    maxGroupLinkMobile: "https://max.ru/join/h4bzg5bdQekVOPqa7kh6zB8Wx7WK7qg97YWG_9a0RYE",
+    maxGroupLinkPC: "https://web.max.ru/join/h4bzg5bdQekVOPqa7kh6zB8Wx7WK7qg97YWG_9a0RYE", //web.max
   },
   {
-    dataGroup: 116,
-    groupName: "П-116СД",
-    groupIMG:"116.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=n3P6eTqejY3nehPVixWC0XCW5av4zE6SuoXxXSJTvpw",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=6YSTNxV_nR0WwY83AhOTO5r2eqqzVMXAWPM=",
+    dataGroup: 22,
+    groupName: "Т-22СД",
+    groupIMG: "22.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/vk1QQYmwSzTWtPnLu7wprseUkCm0AqgdNK6ehr684Uo",
-    maxGroupLinkPC: "https://web.max.ru/join/vk1QQYmwSzTWtPnLu7wprseUkCm0AqgdNK6ehr684Uo",
+    maxGroupLinkMobile: "https://max.ru/join/F3MNuXlLtnKy-_yfuOrCAbAe_RNks87WH1pK7cGfkIc",
+    maxGroupLinkPC: "https://web.max.ru/join/F3MNuXlLtnKy-_yfuOrCAbAe_RNks87WH1pK7cGfkIc", //web.max
   },
   {
-    dataGroup: 117,
-    groupName: "П-117СД",
-    groupIMG:"117.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=nx-niHxsGItVabSSXF9y4vb8_E6yAj-S4sS77nQGwus",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=y7fI8Z73u3mso3NJzZIQAwlitLPRRiEunQg=",
+    dataGroup: 23,
+    groupName: "Т-23СД",
+    groupIMG: "23.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/TgFyS88_Z0CH5rvNAgDHQ3Fhs3rDYqcCHczySvkn1hc",
-    maxGroupLinkPC: "https://web.max.ru/join/TgFyS88_Z0CH5rvNAgDHQ3Fhs3rDYqcCHczySvkn1hc",
+    maxGroupLinkMobile: "https://max.ru/join/sFCHspb_pJeQ4XB7mKRm4D5PZ-zKOB0ijq1LtfdpAqU",
+    maxGroupLinkPC: "https://web.max.ru/join/sFCHspb_pJeQ4XB7mKRm4D5PZ-zKOB0ijq1LtfdpAqU", //web.max
   },
   {
-    dataGroup: 118,
-    groupName: "П-118СД",
-    groupIMG:"118.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=0kW78CU7sjoTjN9OkhwWkkHm9tGgu-OyJKxsZItskR8",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=uz5hFmurc7fhtgndlX2PoL1Vm2r8NFTij80=",
+    dataGroup: 24,
+    groupName: "Т-24СД",
+    groupIMG: "24.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/7P9hFsWpV3vw4klaQPr2TxjaRpYUX3wYvfw5kg3FG8w",
-    maxGroupLinkPC: "https://web.max.ru/join/7P9hFsWpV3vw4klaQPr2TxjaRpYUX3wYvfw5kg3FG8w",
+    maxGroupLinkMobile: "https://max.ru/join/dr5Y7yGkx9Qh3WsIfimCQkV-Yqq9pZenBkmPc46u7oE",
+    maxGroupLinkPC: "https://web.max.ru/join/dr5Y7yGkx9Qh3WsIfimCQkV-Yqq9pZenBkmPc46u7oE", //web.max
   },
   {
-    dataGroup: 119,
-    groupName: "П-119СД",
-    groupIMG:"119.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=JMU_OlbYpFfmOq_s7_TuKY6YPbjmEcXiqrxroL9RTRg",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=WHs42ter6nwtXHzUPb/qEeRii9ewmeXzJqo=",
+    dataGroup: 25,
+    groupName: "Т-25СД",
+    groupIMG: "25.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile:"https://max.ru/join/tl0Trcrna5CVeRbo614A6oS2oeW1Yqt_uFctqsSHZf8",
-    maxGroupLinkPC: "https://web.max.ru/join/tl0Trcrna5CVeRbo614A6oS2oeW1Yqt_uFctqsSHZf8",
+    maxGroupLinkMobile: "https://max.ru/join/HR64tZ0HdUzR3bTphWV7EJptpmz5DCwJZ6UVpSAqFfA",
+    maxGroupLinkPC: "https://web.max.ru/join/HR64tZ0HdUzR3bTphWV7EJptpmz5DCwJZ6UVpSAqFfA", //web.max
   },
   {
-    dataGroup: 120,
-    groupName: "П-120СД",
-    groupIMG:"120.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=jJ6OG8Ewl__TjVKJc0TkNeNerv3aP8OTN-LVoi2NBi8",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=DtBWH_gw4FMdARxlxwB1U4SfueT9PhGUrL4=",
+    dataGroup: 26,
+    groupName: "Т-26СД",
+    groupIMG: "26.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/-tSwl6VMr8MthVLdZyt_COJptxVOEvtXxouTrhTo1NI",
-    maxGroupLinkPC: "https://web.max.ru/join/-tSwl6VMr8MthVLdZyt_COJptxVOEvtXxouTrhTo1NI",
+    maxGroupLinkMobile: "https://max.ru/join/JTGnzymr9a5Fr4wI3CnrSKR_Uui7vXgUvawig6hFNEI",
+    maxGroupLinkPC: "https://web.max.ru/join/JTGnzymr9a5Fr4wI3CnrSKR_Uui7vXgUvawig6hFNEI", //web.max
   },
   {
-    dataGroup: 121,
-    groupName: "П-121СД",
-    groupIMG:"121.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=DVQWmwdEO5DH1SEfcPG4vEC24CHh2F3dhyn9ot68FcA",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=Bk0nFZbjn2urrxgsjKLT3jdtrAkqbo5xMak=",
+    dataGroup: 27,
+    groupName: "Т-27СД",
+    groupIMG: "27.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/UL8b1bTIK1CIeH2kGk5lZsqLBgSbmURKU5lVyTu3bbk",
-    maxGroupLinkPC: "https://web.max.ru/join/UL8b1bTIK1CIeH2kGk5lZsqLBgSbmURKU5lVyTu3bbk",
+    maxGroupLinkMobile: "https://max.ru/join/d5g35Rui8SifV5VDwLSJcVdltmVOr21s_ccTthzAEmo",
+    maxGroupLinkPC: "https://web.max.ru/join/d5g35Rui8SifV5VDwLSJcVdltmVOr21s_ccTthzAEmo", //web.max
   },
   {
-    dataGroup: 122,
-    groupName: "П-122СД",
-    groupIMG:"122.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=hUdX14QeIO7Eqj1hAofh8aFMKCk7zy5omWGj9iEIMgc",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=SJR2qLuou7LLvr1cG1FihvvwGKoyvxpIrdA=",
+    dataGroup: 29,
+    groupName: "Т-29СД",
+    groupIMG: "29.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/PZsv2EvM6exlBEWA3mUZEGi7gDaVP2HcPVCcPg49Uk0",
-    maxGroupLinkPC: "https://web.max.ru/join/PZsv2EvM6exlBEWA3mUZEGi7gDaVP2HcPVCcPg49Uk0",
+    maxGroupLinkMobile: "https://max.ru/join/9jLWPg6_M1s31qFLneQpuEZjwTLmwCYYOLdR_FM2bFE",
+    maxGroupLinkPC: "https://web.max.ru/join/9jLWPg6_M1s31qFLneQpuEZjwTLmwCYYOLdR_FM2bFE", //web.max
+  },
+
+  {
+    dataGroup: 31,
+    groupName: "Т-31СД",
+    groupIMG: "31.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "https://max.ru/join/HZdzj9UsF1XG3Jywt4_OoTSWcXpEQGI8q1Li8vtw2NU",
+    maxGroupLinkPC: "https://web.max.ru/join/HZdzj9UsF1XG3Jywt4_OoTSWcXpEQGI8q1Li8vtw2NU", //web.max
   },
   {
-    dataGroup: 123,
-    groupName: "П-123СД",
-    groupIMG:"123.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=RCfAcwPwbtfWDzujZYvQ2YT5iOfZPFb9MnI-ejgl6mQ",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=dvfvvJS5o1VWcQ3etMhMOkjrs4_4E/6pFgY=",
+    dataGroup: 32,
+    groupName: "Т-32СД",
+    groupIMG: "32.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/4y-pvsbktnSeh83wcvCgWgAJwlmzvVqQqlLFYYqinAw",
-    maxGroupLinkPC: "https://web.max.ru/join/4y-pvsbktnSeh83wcvCgWgAJwlmzvVqQqlLFYYqinAw",
+    maxGroupLinkMobile: "https://max.ru/join/wZTLuEkK2TPTo2z0EsVnVGyEuMYY9tl1TzMgq7EFLbs",
+    maxGroupLinkPC: "https://web.max.ru/join/wZTLuEkK2TPTo2z0EsVnVGyEuMYY9tl1TzMgq7EFLbs", //web.max
   },
   {
-    dataGroup: 124,
-    groupName: "П-124СД",
-    groupIMG:"124.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=nolxU5qMDFW_es6lSLIFTmlb_qRw1jMjrT-p1aB2XYY",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=WR_sGHnBqpQjdQMmP1Cpwvi_zbPoOXCqwHM=",
+    dataGroup: 34,
+    groupName: "Т-34СД",
+    groupIMG: "34.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/RIgTs4GyyjeKn2hn6S4gWKIPo4TRI_JpE6mk-QDC9xM",
-    maxGroupLinkPC: "https://web.max.ru/join/RIgTs4GyyjeKn2hn6S4gWKIPo4TRI_JpE6mk-QDC9xM",
+    maxGroupLinkMobile: "https://max.ru/join/j0M57WWSND4rFr7EUT3ruInZr5380-enBPrF1axQwi4",
+    maxGroupLinkPC: "https://web.max.ru/join/j0M57WWSND4rFr7EUT3ruInZr5380-enBPrF1axQwi4", //web.max
   },
   {
-    dataGroup: 125,
-    groupName: "П-125СД",
-    groupIMG:"125.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=ukbKoRqj41WL9liQfSPn54_l9UYvK_DHzdkLVAAaZSM",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=T6Zgn/oXeA9zwpKNHtuYfXu3PNiJwuArgHE=",
+    dataGroup: 35,
+    groupName: "Т-35СД",
+    groupIMG: "35.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/8G6KG3esYCSgk8aVWZv1y6QbZi0xgarfV39taEcAH_Q",
-    maxGroupLinkPC: "https://web.max.ru/join/8G6KG3esYCSgk8aVWZv1y6QbZi0xgarfV39taEcAH_Q",
+    maxGroupLinkMobile: "https://max.ru/join/fCNYdvAP_-8yYVOofjJSLcYLsbgCaEapyzZXDPueUv8",
+    maxGroupLinkPC: "https://web.max.ru/join/fCNYdvAP_-8yYVOofjJSLcYLsbgCaEapyzZXDPueUv8", //web.max
   },
   {
-    dataGroup: 126,
-    groupName: "П-126СД",
-    groupIMG:"126.webp",
-    //===========================СФЕРУМ=================================
-    sferumGroupCall: "https://sferum.ru?call_link=mqDEjYQRKMftZYITZdg2RtnO5hoYGYxJWo_O0FvviUU",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=qWNc_K/Oqi9hS1vFVmEWXu1i6PxDym6WAs8=",
+    dataGroup: 36,
+    groupName: "Т-36СД",
+    groupIMG: "36.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/9tnFOTiC_KIuFzYtT68hfDNfxyD59_eDovByn1it1Qw",
-    maxGroupLinkPC: "https://web.max.ru/join/9tnFOTiC_KIuFzYtT68hfDNfxyD59_eDovByn1it1Qw",
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
   },
   {
-    dataGroup: 127,
-    groupName: "Кружок Испанского",
-    groupIMG:"127.webp",
-    sferumGroupCall: "https://sferum.ru?call_link=mtPqcZVA8oo8A47-p9EQO84HIycORPzhtXOr8EHO4fc",
-    sferumGroupLink: "https://sferum.ru/?p=messages&join=/u/xFzWiQAU_KWrKfeH0ZbzLi4tyondAt/k=",
-    maxGroupLinkPC: "https://sferum.ru/?p=messages&join=/u/xFzWiQAU_KWrKfeH0ZbzLi4tyondAt/k=",
-  }
+    dataGroup: 37,
+    groupName: "Т-37СД",
+    groupIMG: "37.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "https://max.ru/join/NAufs9fqqh9qOFV-RI5qBK9egfz5nasA0fozCpwCK_Y",
+    maxGroupLinkPC: "https://web.max.ru/join/NAufs9fqqh9qOFV-RI5qBK9egfz5nasA0fozCpwCK_Y", //web.max
+  },
+
+  //===================ВЕЧЁРКА================================================================================
+  {
+    dataGroup: 1011,
+    groupName: "11СДВ",
+    groupIMG: "1011.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1012,
+    groupName: "12СДВ",
+    groupIMG: "1012.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1021,
+    groupName: "21СДВ",
+    groupIMG: "1021.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1022,
+    groupName: "22СДВ",
+    groupIMG: "1022.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1031,
+    groupName: "31СДВ",
+    groupIMG: "1031.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1032,
+    groupName: "32СДВ",
+    groupIMG: "1032.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "",
+    maxGroupLinkPC: "", //web.max
+  },
+  {
+    dataGroup: 1041,
+    groupName: "41СДВ",
+    groupIMG: "1041.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "https://max.ru/join/Rq4RdfV_Xi5hZ_EopE5p6BXNajDw_WnbRfZn-isnlwQ",
+    maxGroupLinkPC: "https://web.max.ru/join/Rq4RdfV_Xi5hZ_EopE5p6BXNajDw_WnbRfZn-isnlwQ", //web.max
+  },
+  {
+    dataGroup: 1042,
+    groupName: "42СДВ",
+    groupIMG: "1042.webp",
+    //============================МАКС==================================
+    maxGroupLinkMobile: "https://max.ru/join/v2JQU_IxhiotQxVKRUXrIc14ofahxQzM1KGxO2wzb_s",
+    maxGroupLinkPC: "https://web.max.ru/join/v2JQU_IxhiotQxVKRUXrIc14ofahxQzM1KGxO2wzb_s", //web.max
+  },
 ];
 
