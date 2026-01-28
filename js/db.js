@@ -173,8 +173,8 @@ const arrColletion = [
     groupName: "Т-29СД",
     groupIMG: "29.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "https://max.ru/join/9jLWPg6_M1s31qFLneQpuEZjwTLmwCYYOLdR_FM2bFE",
-    maxGroupLinkPC: "https://web.max.ru/join/9jLWPg6_M1s31qFLneQpuEZjwTLmwCYYOLdR_FM2bFE", //web.max
+    maxGroupLinkMobile: "https://max.ru/join/cX9Deq7i7ixl_zctiX2QJ4M92kxrMRyyC4dBnBeEwbQ",
+    maxGroupLinkPC: "https://web.max.ru/join/cX9Deq7i7ixl_zctiX2QJ4M92kxrMRyyC4dBnBeEwbQ", //web.max
   },
 
   {
