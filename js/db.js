@@ -45,8 +45,8 @@ const arrColletion = [
     groupName: "Т-106СД",
     groupIMG: "106.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "",
-    maxGroupLinkPC: "", //web.max
+    maxGroupLinkMobile: "https://max.ru/join/vWSP99Dw7R5cR6LjmSOY4M-m6UZKv-SCnaDIlMytbYo",
+    maxGroupLinkPC: "https://web.max.ru/join/vWSP99Dw7R5cR6LjmSOY4M-m6UZKv-SCnaDIlMytbYo", //web.max
   },
   {
     dataGroup: 107,
@@ -85,8 +85,8 @@ const arrColletion = [
     groupName: "Т-111СД",
     groupIMG: "111.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "",
-    maxGroupLinkPC: "", //web.max
+    maxGroupLinkMobile: "https://max.ru/join/WfsbcA1ePJEPCAEB69VWx4jrfRgQAzxdjAzoLuBvrZg",
+    maxGroupLinkPC: "https://web.max.ru/join/WfsbcA1ePJEPCAEB69VWx4jrfRgQAzxdjAzoLuBvrZg", //web.max
   },
   {
     dataGroup: 112,
@@ -214,8 +214,8 @@ const arrColletion = [
     groupName: "Т-36СД",
     groupIMG: "36.webp",
     //============================МАКС==================================
-    maxGroupLinkMobile: "",
-    maxGroupLinkPC: "", //web.max
+    maxGroupLinkMobile: "https://max.ru/join/bnCtpalxdPjYEUz80IErHnMSZXiev_ytnsW8IFGEUws",
+    maxGroupLinkPC: "https://web.max.ru/join/bnCtpalxdPjYEUz80IErHnMSZXiev_ytnsW8IFGEUws", //web.max
   },
   {
     dataGroup: 37,
