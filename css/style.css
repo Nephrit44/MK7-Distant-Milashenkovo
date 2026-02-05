@@ -114,6 +114,12 @@ body {
   justify-content: center;
 }
 
+.qrcode {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
 .button-group {
   display: flex;
   flex-direction: column;

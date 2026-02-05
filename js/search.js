@@ -40,3 +40,5 @@ function showAllCard(cardCollection) {
         element.classList.remove('visible');
     });
 }
+
+
