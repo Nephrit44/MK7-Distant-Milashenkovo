@@ -8,6 +8,7 @@ const getlist = document.querySelector('.card-list'); //Контейнер дл�
 arrColletion.forEach((element) => {
   let newElement = getTemplateCard.content.cloneNode(true); //Создаю клон шаблона карточки
   newElement.querySelector('.card').setAttribute('data-groupid', element.dataGroup);
+  newElement.querySelector('.card').setAttribute('data-groupname', element.groupName);
   newElement.querySelector('.card-title').textContent = element.groupName; //Ищу заголовок и дабавляю ему данные из коллекции
   newElement.querySelector('.card-img-top').src = "./image/" + element.groupIMG;
 
@@ -44,9 +45,9 @@ function qrGenerator(qrValue, qrElement) {
   const qrcode = new QRCode(qrElement, {
     text: qrValue, // Введите здесь текст или URL-адрес, который вы хотите закодировать в QR-код
 
-    width: 128, // Ширина QR-кода в пикселях
+    width: 64, // Ширина QR-кода в пикселях
 
-    height: 128, // Высота QR-кода в пикселях
+    height: 64, // Высота QR-кода в пикселях
     colorDark: "#000000", // Цвет кода
 
     colorLight: "#ffffff", // Цвет фона
